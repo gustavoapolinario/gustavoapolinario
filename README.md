@@ -38,6 +38,12 @@ I'm passionate about building reliable and secure infrastructure, automating wor
 
 ### 📂 Featured Projects
 
+
+#### [Terraform AKS]
+> A terraform module to implement AKS (managed Kubernetes on Azure) with a lot of options and security configurations.
+- **Tech:** AKS, Kubernetes, Azure, Terrafom
+- [**📁 Repository**](https://github.com/gustavoapolinario/tfaks)
+
 #### [Terraform EKS]
 > A terraform module to implement EKS (managed Kubernetes on AWS) with a lot of options and security configurations.
 - **Tech:** EKS, Kubernetes, AWS, Terrafom
@@ -47,7 +53,6 @@ I'm passionate about building reliable and secure infrastructure, automating wor
 > A script to run locally Kubernetes with vagrant and ansible. It's important to train Kubernetes on-premise instalation.
 - **Tech:** Kubernetes, Vagrant, Ansible
 - [**📁 Repository**](https://github.com/gustavoapolinario/vagrant-asible-kubernetes)
-
 
 #### [Eccomerce Lab]
 > Run an application and databases on kubernetes local with 
